@@ -1,1 +1,2 @@
-https://mybinder.org/v2/gh/trgoodale/python-workshops.git/HEAD?urlpath=notebooks%2Fworkshop-1.ipynb
+https://mybinder.org/v2/gh/trgoodale/python-workshops/main?filepath=workshop-1.ipynb
+
